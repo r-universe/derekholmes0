@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "FinanceGraphs"]
+	path = FinanceGraphs
+	url = https://github.com/derekholmes0/financegraphs
 [submodule "alphavantagepf"]
 	path = alphavantagepf
 	url = https://github.com/derekholmes0/alphavantagepf
